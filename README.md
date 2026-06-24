@@ -79,7 +79,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ## Author
 
-**Tanuj Sanapala**
+**Sanapala Tanuj **
 
 B.Tech – Electronics and Communication Engineering
 
